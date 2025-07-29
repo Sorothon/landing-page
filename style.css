@@ -87,6 +87,7 @@ button {
     align-items: center;
     text-align: center;
     padding: 20px;
+    max-width: 200px;
 }
 
 .little-pics {
