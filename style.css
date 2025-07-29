@@ -116,5 +116,6 @@ em {
     max-width: 600px;
     align-self: center;
     border-radius: 8px;
-    
+    display: flex;
+    justify-content: space-between;
 }
