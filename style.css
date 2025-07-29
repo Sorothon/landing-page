@@ -118,4 +118,10 @@ em {
     border-radius: 8px;
     display: flex;
     justify-content: space-between;
+    padding: 20px;
+    margin: auto;
+}
+
+.lower-text {
+    color: #F9FAf8
 }
