@@ -49,5 +49,6 @@ button {
 }
 
 .top-button {
-    border-color: #3882F6;
+    border: none;
+    color: #F9FAf8
 }
