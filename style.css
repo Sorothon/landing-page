@@ -50,6 +50,7 @@ li {
 }
 
 button {
+    color: #F9FAf8;
     background-color: #3882F6;
     border-radius: 8px;
     padding: 5px;
@@ -62,7 +63,6 @@ button {
 
 .top-button {
     border: none;
-    color: #F9FAf8
 }
 
 .mid {
