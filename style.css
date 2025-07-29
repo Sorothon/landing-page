@@ -67,4 +67,10 @@ button {
 
 .mid {
     background-color: #F9FAf8;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
 }
+
