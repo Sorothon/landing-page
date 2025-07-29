@@ -125,3 +125,7 @@ em {
 .lower-text {
     color: #F9FAf8
 }
+
+.lower-button {
+    border-color: #F9FAf8;
+}
