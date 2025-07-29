@@ -45,6 +45,11 @@ li {
     padding: 50px;
 }
 
+.top-image {
+    min-width: 350px;
+    max-width: 500px;
+}
+
 .header-top {
     font-size: 48px;
 }
@@ -93,6 +98,7 @@ button {
 .little-pics {
     border: 2px solid #3882F6;
     border-radius: 8px;
+    max-width: 200px;
 }
 
 .quote {
