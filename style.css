@@ -76,16 +76,17 @@ button {
 
 .pictures {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
-    padding: 20px;
 }
 
-.info-images{
+.info-image{
     display: flex;
-    justify-content: space-evenly;
+    flex-direction: column;
+    justify-content: center;
     align-items: center;
     text-align: center;
+    padding: 20px;
 }
 
 .little-pics {
