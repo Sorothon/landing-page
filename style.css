@@ -33,3 +33,12 @@ a {
 li {
     list-style-type: none;
 }
+
+.top {
+    color: #F9FAf8;
+    display: flex;
+}
+
+.header-top{
+    font-size: 48px;
+}
