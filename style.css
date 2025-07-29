@@ -110,3 +110,11 @@ em {
     align-self: flex-end;
     font-size: 25px;
 }
+
+.lower {
+    background-color: #3882F6;
+    max-width: 600px;
+    align-self: center;
+    border-radius: 8px;
+    
+}
