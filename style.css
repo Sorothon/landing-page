@@ -46,6 +46,7 @@ li {
 
 button {
     background-color: #3882F6;
+    border-radius: 12px;
 }
 
 .top-button {
