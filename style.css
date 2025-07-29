@@ -120,6 +120,8 @@ em {
     justify-content: space-between;
     padding: 20px;
     margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .lower-text {
@@ -128,4 +130,11 @@ em {
 
 .lower-button {
     border-color: #F9FAf8;
+}
+
+footer {
+    color: #F9FAf8;
+    background-color: #1F2937;
+    text-align: center;
+    padding: 20px;
 }
