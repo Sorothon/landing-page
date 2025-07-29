@@ -105,3 +105,8 @@ button {
 em {
     font-weight: lighter;
 }
+
+.name {
+    align-self: flex-end;
+    font-size: 25px;
+}
