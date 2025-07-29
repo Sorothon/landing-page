@@ -37,6 +37,7 @@ li {
 .top {
     color: #F9FAf8;
     display: flex;
+    padding: 50px;
 }
 
 .header-top{
