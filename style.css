@@ -96,4 +96,12 @@ button {
 
 .quote {
     background-color: #E5E7EB;
+    font-size: 36px;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+em {
+    font-weight: lighter;
 }
